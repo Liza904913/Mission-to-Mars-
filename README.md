@@ -8,6 +8,6 @@ The purpose of the project is to create a web application with Flask that will a
 
 ![Image1.png](Image1.png)
 
+
 [Image2.png](Image2.png)
 
-[Image3.png](Image3.png)
