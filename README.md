@@ -13,5 +13,5 @@ Software: Python 3.7.7, Anaconda Navigator 1.9.12, Conda 4.8.4, Jupyter Notebook
 ![Image1.png](Image1.png)
 
 
-[Image2.png](Image2.png)
+![Image2.png](Image2.png)
 
